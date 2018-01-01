@@ -1,6 +1,6 @@
 # EGEN-310 Project
 
-This code was written entirely by me, with some additional code supplied by Arduino in the GUI.ino file, so credit to them for those few lines.
+This code was written almost entirely by me, with some additional code supplied by Arduino in the GUI.ino file, so credit to them for those few lines of code.
 
 The EGEN 310 project was simply to build an RC Car and make it work. My portion was to put an Adafruit IMU on board the car, have it deliver information to a microcontroller, and from there to a Bluetooth module on the car, and send and receive information with the laptop running the programs I wrote.
 
